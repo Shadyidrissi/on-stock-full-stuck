@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125851267266",
+    "project_id": "on-stock-f4a61",
+    "storage_bucket": "on-stock-f4a61.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125851267266:android:90d2dfaec3e13fe30e4b5b",
+        "android_client_info": {
+          "package_name": "on.stock.bego"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtav4EKHfD6HEEXu3WqXf_Wxth7IVDA50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
